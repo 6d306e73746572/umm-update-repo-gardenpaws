@@ -1,6 +1,7 @@
 {
 	"Releases":
 	[
-		{"Id": "CustomTextureLoader", "Version": "1.0.0"}
+		{"Id": "CustomTextureLoader", "Version": "1.0.0"},
+		{"Id": "Toolbox", "Version": "1.0.0"}
 	]
 }
